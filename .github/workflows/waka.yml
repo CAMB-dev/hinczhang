@@ -11,7 +11,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: hinczhang/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
 
