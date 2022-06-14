@@ -6,7 +6,18 @@ I'm fierce, don't go epilepsy with me here.
 我常用的计算机语言 The Programming languages I usually use: <img src="https://img.shields.io/badge/Language-Javascript-green"/>
 <img src="https://img.shields.io/badge/Language-C++-green"/>
 <img src="https://img.shields.io/badge/Language-Java-green"/>
-<img src="https://img.shields.io/badge/Language-Python-green"/>
+<img src="https://img.shields.io/badge/Language-Python-green"/>  
+我常用的技术框架 The framework I usually use: <img src="https://img.shields.io/badge/Stack-Vue-red"/>
+<img src="https://img.shields.io/badge/Stack-Android-red"/>
+<img src="https://img.shields.io/badge/Stack-OpenCV-red"/>
+<img src="https://img.shields.io/badge/Stack-Hadoop-red"/>
+<img src="https://img.shields.io/badge/Stack-MPI/OpenMP-red"/>
+<img src="https://img.shields.io/badge/Stack-QT-red"/>
+<img src="https://img.shields.io/badge/Stack-CUDA-red"/>  
+我喜欢的技术 The technology I like: <img src="https://img.shields.io/badge/Tech-3D-blue"/>
+<img src="https://img.shields.io/badge/Tech-DataScience-blue"/>
+<img src="https://img.shields.io/badge/Tech-DeepLearning-blue"/>
+<img src="https://img.shields.io/badge/Tech-Modelling-blue"/>
 <!--
 **hinczhang/hinczhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
