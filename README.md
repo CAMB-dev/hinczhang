@@ -1,8 +1,12 @@
-## 张炅焱 来自 中华人民共和国 <img src="http://www.emojidex.com/emoji/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97 #emojidex "/>
+## 张炅焱 来自 中华人民共和国 <img src="https://cdn.emojidex.com/emoji/xhdpi/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97.png?1417130677"/>
 我很凶的，不要在我这里发癫。  
 I'm fierce, don't go epilepsy with me here.
 ### Zhang, Jiongyan, FROM THE GREAT REPUBLIC
-
+## 技术栈 Technique Stack <img src="https://img.shields.io/badge/Techniques-v1.0.0-red"/>
+我常用的计算机语言 The Programming languages I usually use: <img src="https://img.shields.io/badge/Language-Javascript-green"/>
+<img src="https://img.shields.io/badge/Language-C++-green"/>
+<img src="https://img.shields.io/badge/Language-Java-green"/>
+<img src="https://img.shields.io/badge/Language-Python-green"/>
 <!--
 **hinczhang/hinczhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
