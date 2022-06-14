@@ -43,7 +43,7 @@ No activity tracked
 > - Песня о тревожной молодости  
 > - 秦风  
 > - 白玫瑰  
-### 最喜欢的书籍 Favorite Books
+### 最喜欢的书籍 Favorite Books <img src="https://img.shields.io/badge/book-favorite-green"/>
 > - Zur Kritik der PolitischenÖkonomie  
 > - 古文观止  
 > - 毛泽东选集  
