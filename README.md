@@ -18,6 +18,8 @@ I'm fierce, don't go epilepsy with me here.
 <img src="https://img.shields.io/badge/Tech-DataScience-blue"/>
 <img src="https://img.shields.io/badge/Tech-DeepLearning-blue"/>
 <img src="https://img.shields.io/badge/Tech-Modelling-blue"/>
+<img src="https://img.shields.io/badge/Tech-CV-blue"/>
+<img src="https://img.shields.io/badge/Tech-ImageProcessing-blue"/>
 <!--
 **hinczhang/hinczhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
