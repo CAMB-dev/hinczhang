@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=INF560&theme=buefy)](https://github.com/hinczhang/INF560)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=GeoRecorder)](https://github.com/hinczhang/GeoRecorder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Graduate-Thesis&theme=graywhite)](https://github.com/hinczhang/Graduate-Thesis)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=OSPyQGIS&theme=vue)](https://github.com/hinczhang/OSPyQGIS)
 ### 熱門語言 Popular languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinczhang)](https://github.com/hinczhang/github-readme-stats)
 <!--START_SECTION:waka-->
