@@ -52,11 +52,6 @@ Here are some ideas to get you started:
 ### 熱門語言 Popular languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinczhang)](https://github.com/hinczhang/github-readme-stats)
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 ## 日常 Daily <img src="https://img.shields.io/badge/%E6%97%A5%E5%B8%B8-daily-blue"/>
 ### 承諾不首先使用種族主義武器
