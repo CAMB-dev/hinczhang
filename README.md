@@ -34,8 +34,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![张炅焱's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinczhang&show_icons=true&theme=vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=3D-Scanning-and-Motion-Capture&theme=gruvbox_light)](https://github.com/hinczhang/3D-Scanning-and-Motion-Capture)
+![张炅焱's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinczhang&show_icons=true&theme=vue)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=3D-Scanning-and-Motion-Capture&theme=swift)](https://github.com/hinczhang/3D-Scanning-and-Motion-Capture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Parallel-Computing&theme=buefy)](https://github.com/hinczhang/INF560)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=GeoRecorder)](https://github.com/hinczhang/GeoRecorder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=rsgis-gallery&theme=graywhite)](https://github.com/hinczhang/rsgis-gallery-backend)  
 <!--START_SECTION:waka-->
 
 ```text
