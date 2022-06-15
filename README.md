@@ -1,20 +1,26 @@
-## 张炅焱 来自 中华人民共和国 <img src="https://cdn.emojidex.com/emoji/xhdpi/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97.png?1417130677"/>
+## 張炅焱 來自 中華人民共和國 <img src="https://cdn.emojidex.com/emoji/xhdpi/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97.png?1417130677"/>
 我很凶的，不要在我这里发癫。  
 I'm fierce, don't go epilepsy with me here.
 ### Zhang, Jiongyan, FROM THE GREAT REPUBLIC
-## 技术栈 Technique Stack <img src="https://img.shields.io/badge/Techniques-v1.0.0-red"/>
-我常用的计算机语言 The Programming languages I usually use: <img src="https://img.shields.io/badge/Language-Javascript-green"/>
+## 教育背景 Education Background
+2017.09-2021.06 武漢大學（罕見大學）遙感信息工程學院地理信息工程方向 (Wuhan University, School of Remote Sensing Information and Eng., GIS track)  
+2021.10-Now 德國某一工程類大學（因爲感覺不如母校就不説了） (Some technical university in Deutschland)
+## 工作經歷 Work Experience
+2020-2021 武漢大學ISIP Lab的研究助理 （RA in Wuhan university, ISIP Lab）  
+2021 美國環境系統研究所公司北京研發中心，R&D（雖説刻意加上‘美國’二次很容易被説成是狗罕見，但的確是全名） （ESRI，R&D）
+## 技術棧 Technique Stack <img src="https://img.shields.io/badge/Techniques-v1.0.0-red"/>
+我常用的計算機語言 The Programming languages I usually use: <img src="https://img.shields.io/badge/Language-Javascript-green"/>
 <img src="https://img.shields.io/badge/Language-C++-green"/>
 <img src="https://img.shields.io/badge/Language-Java-green"/>
 <img src="https://img.shields.io/badge/Language-Python-green"/>  
-我常用的技术框架 The framework I usually use: <img src="https://img.shields.io/badge/Stack-Vue-red"/>
+常用的技術框架 The framework I usually use: <img src="https://img.shields.io/badge/Stack-Vue-red"/>
 <img src="https://img.shields.io/badge/Stack-Android-red"/>
 <img src="https://img.shields.io/badge/Stack-OpenCV-red"/>
 <img src="https://img.shields.io/badge/Stack-Hadoop-red"/>
 <img src="https://img.shields.io/badge/Stack-MPI/OpenMP-red"/>
 <img src="https://img.shields.io/badge/Stack-QT-red"/>
 <img src="https://img.shields.io/badge/Stack-CUDA-red"/>  
-我喜欢的技术 The technology I like: <img src="https://img.shields.io/badge/Tech-3D-blue"/>
+我喜歡的技術 The technology I like: <img src="https://img.shields.io/badge/Tech-3D-blue"/>
 <img src="https://img.shields.io/badge/Tech-DataScience-blue"/>
 <img src="https://img.shields.io/badge/Tech-DeepLearning-blue"/>
 <img src="https://img.shields.io/badge/Tech-Modelling-blue"/>
@@ -34,14 +40,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Github统计信息 Statistical information
-![张炅焱's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinczhang&show_icons=true&theme=vue)  
+### Github統計信息 Statistical information
+![張炅焱's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinczhang&show_icons=true&theme=vue)  
 ### Github代表作 Masterpieces
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=3D-Scanning-and-Motion-Capture&theme=swift)](https://github.com/hinczhang/3D-Scanning-and-Motion-Capture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=INF560&theme=buefy)](https://github.com/hinczhang/INF560)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=GeoRecorder)](https://github.com/hinczhang/GeoRecorder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Graduate-Thesis&theme=graywhite)](https://github.com/hinczhang/Graduate-Thesis)  
-### 热门语言 Popular languages
+### 熱門語言 Popular languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinczhang)](https://github.com/hinczhang/github-readme-stats)
 <!--START_SECTION:waka-->
 
@@ -51,35 +57,36 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 ## 日常 Daily <img src="https://img.shields.io/badge/%E6%97%A5%E5%B8%B8-daily-blue"/>
-### 承诺不首先使用种族歧视武器
+### 承諾不首先使用種族主義武器
 ### Commitment not to be the first to use racist attack weapons.
-### 日常爱好 Hobbies <img src="https://img.shields.io/badge/hobby-favorite-brightgreen"/>
-> - 中国古典文学 Chinese classical literature  
-> - 意识流小说写作 Stream of Consciousness Novel Writing  
-> - 长跑(5km) Running
-> - 健身房(拒绝在外国进入健身房) Gym  
-### 语言 Language <img src="https://img.shields.io/badge/language-use-orange"/>
+### 日常愛好 Hobbies <img src="https://img.shields.io/badge/hobby-favorite-brightgreen"/>
+> - 中國古典文學 Chinese classical literature  
+> - 意識流小説寫作 Stream of Consciousness Novel Writing  
+> - 長跑(5km) Running
+> - 健身房 (因爲疫情，拒絕在外國進入健身房，我媽只有我這一個兒子) Gym
+> - 做飯(家常菜，反正一日三餐基本自己弄) Cooking  
+### 語言 Language <img src="https://img.shields.io/badge/language-use-orange"/>
 > - 中文  
 > - 英文 English  
 > - 俄文 Русский  
-### 最喜欢的歌曲 Favorite Songs <img src="https://img.shields.io/badge/song-favorite-lightgrey"/>
+### 最喜歡的歌曲 Favorite Songs <img src="https://img.shields.io/badge/song-favorite-lightgrey"/>
 > - Der heimliche Aufmarsch  
 > - И вновь продолжается бой  
-> - 太阳照常升起  
+> - 太陽照常升起  
 > - Песня о тревожной молодости  
-> - 秦风  
+> - 秦風  
 > - 白玫瑰  
-### 最喜欢的书籍 Favorite Books <img src="https://img.shields.io/badge/book-favorite-green"/>
+### 最喜歡的書籍 Favorite Books <img src="https://img.shields.io/badge/book-favorite-green"/>
 > - Zur Kritik der PolitischenÖkonomie  
-> - 古文观止  
-> - 毛泽东选集  
+> - 古文觀止  
+> - 毛澤東選集  
 > - Summa Contra Gentiles  
 > - The Eighteenth Brumaire of Louis Bonaparte  
 > - Жизнь и судьба
-> - 神灭论
+> - 神滅論
 > - 荀子
-### 政治活动 Political activities <img src="https://img.shields.io/badge/activity-politics-yellowgreen"/>
-> - 中国共青团团员 Chinese Communist Youth League member  
-> - 中国保守主义学术研究会常任秘书 （已离职） Permanent Secretary to the Ruling Committee of China Conservative Academic Research Association  
-> - 武汉大学大学生中国特色社会主义理论体系学习研究会 秘书处 （已离职） Wuhan University Student Association for the Study of the Theoretical System of Socialism with Chinese Characteristics, Secretariat  
-> - 淮阳学会 主席团 （已离职） Huaiyang Academia, Presidium  
+### 政治活動 Political activities <img src="https://img.shields.io/badge/activity-politics-yellowgreen"/>
+> - 中國共青團團員 Chinese Communist Youth League member  
+> - 中國保守主義學術研究會常任秘書 （已離職） Permanent Secretary to the Ruling Committee of China Conservative Academic Research Association  
+> - 武漢大學大學生中國特色社會主義理論體系學習研究會 秘書處 （已離職） Wuhan University Student Association for the Study of the Theoretical System of Socialism with Chinese Characteristics, Secretariat  
+> - 淮陽學會 主席團 （已離職） Huaiyang Academia, Presidium  
