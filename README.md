@@ -34,11 +34,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Github统计信息 Statistical information
 ![张炅焱's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinczhang&show_icons=true&theme=vue)  
+### Github代表作 Masterpieces
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=3D-Scanning-and-Motion-Capture&theme=swift)](https://github.com/hinczhang/3D-Scanning-and-Motion-Capture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=INF560&theme=buefy)](https://github.com/hinczhang/INF560)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=GeoRecorder)](https://github.com/hinczhang/GeoRecorder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Graduate-Thesis&theme=graywhite)](https://github.com/hinczhang/Graduate-Thesis)  
+### 热门语言 Popular languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinczhang)](https://github.com/hinczhang/github-readme-stats)
 <!--START_SECTION:waka-->
 
 ```text
