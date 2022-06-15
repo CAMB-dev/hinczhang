@@ -10,18 +10,18 @@ I'm fierce, don't go epilepsy with me here.
 - 2021 武漢大學的教學助理（很榮幸能夠和龔健雅院士一起合作）（TA in Wuhan University）
 - 2021 美國環境系統研究所公司北京研發中心，R&D（雖説刻意加上‘美國’二次很容易被説成是狗罕見，但的確是全名） （ESRI，R&D）
 ## 技術棧 Technique Stack <img src="https://img.shields.io/badge/Techniques-v1.0.0-red"/>
-- 我常用的計算機語言 The Programming languages I usually use: <img src="https://img.shields.io/badge/Language-Javascript-green"/>
+我常用的計算機語言 The Programming languages I usually use: <img src="https://img.shields.io/badge/Language-Javascript-green"/>
 <img src="https://img.shields.io/badge/Language-C++-green"/>
 <img src="https://img.shields.io/badge/Language-Java-green"/>
 <img src="https://img.shields.io/badge/Language-Python-green"/>  
-- 常用的技術框架 The framework I usually use: <img src="https://img.shields.io/badge/Stack-Vue-red"/>
+常用的技術框架 The framework I usually use: <img src="https://img.shields.io/badge/Stack-Vue-red"/>
 <img src="https://img.shields.io/badge/Stack-Android-red"/>
 <img src="https://img.shields.io/badge/Stack-OpenCV-red"/>
 <img src="https://img.shields.io/badge/Stack-Hadoop-red"/>
 <img src="https://img.shields.io/badge/Stack-MPI/OpenMP-red"/>
 <img src="https://img.shields.io/badge/Stack-QT-red"/>
 <img src="https://img.shields.io/badge/Stack-CUDA-red"/>  
-- 我喜歡的技術 The technology I like: <img src="https://img.shields.io/badge/Tech-3D-blue"/>
+我喜歡的技術 The technology I like: <img src="https://img.shields.io/badge/Tech-3D-blue"/>
 <img src="https://img.shields.io/badge/Tech-DataScience-blue"/>
 <img src="https://img.shields.io/badge/Tech-DeepLearning-blue"/>
 <img src="https://img.shields.io/badge/Tech-Modelling-blue"/>
