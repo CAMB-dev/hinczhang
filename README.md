@@ -20,7 +20,8 @@ I'm fierce, don't go epilepsy with me here.
 <img src="https://img.shields.io/badge/Stack-Hadoop-red"/>
 <img src="https://img.shields.io/badge/Stack-MPI/OpenMP-red"/>
 <img src="https://img.shields.io/badge/Stack-QT-red"/>
-<img src="https://img.shields.io/badge/Stack-CUDA-red"/>  
+<img src="https://img.shields.io/badge/Stack-CUDA-red"/>
+<img src="https://img.shields.io/badge/Stack-MFC-red"/>  
 我喜歡的技術 The technology I like: <img src="https://img.shields.io/badge/Tech-3D-blue"/>
 <img src="https://img.shields.io/badge/Tech-DataScience-blue"/>
 <img src="https://img.shields.io/badge/Tech-DeepLearning-blue"/>
