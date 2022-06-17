@@ -60,8 +60,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     8 mins          █████████████████████████   100.00 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       1 hr 9 mins     ███████████▒░░░░░░░░░░░░░   45.53 %
+C++          1 hr 4 mins     ██████████▓░░░░░░░░░░░░░░   42.49 %
+Markdown     17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Vue.js       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
