@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=ObjectRec&theme=swift)](https://github.com/hinczhang/ObjectRec)
 ### 熱門語言 Popular languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinczhang)](https://github.com/hinczhang/github-readme-stats)
+### 日常活動 Daily Activities
 <!--START_SECTION:waka-->
 
 ```text
