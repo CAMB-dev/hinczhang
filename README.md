@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ### Github統計信息 Statistical information
 ![張炅焱's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinczhang&show_icons=true&theme=vue)  
 ### Github代表作 Masterpieces
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=3D-Scanning-and-Motion-Capture&theme=swift)](https://github.com/hinczhang/3D-Scanning-and-Motion-Capture)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=INF560&theme=buefy)](https://github.com/hinczhang/INF560)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=GeoRecorder)](https://github.com/hinczhang/GeoRecorder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Graduate-Thesis&theme=graywhite)](https://github.com/hinczhang/Graduate-Thesis)  
