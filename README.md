@@ -7,7 +7,7 @@ Read my resume: <a href="RESEME_NEW.pdf"><img src="https://img.shields.io/badge/
 💬 咨询 Ask me about: 全栈 Fullstack, 计算机视觉 Computer Vision, 3D, 并行 parallelism  
 ## 教育背景 Education Background <img src="https://img.shields.io/badge/教育-Education-brightgreen"/>
 - 2017.09-2021.06 武漢大學（罕見大學）遙感信息工程學院地理信息工程方向 (Wuhan University, School of Remote Sensing Information and Eng., GIS track)  
-- 2021.10-Now 德國某一工程類大學（因爲感覺不如母校就不説了） (Some technical university in Deutschland)
+- 2021.10-Now 德國某一工程類大學 (Some technical university in Deutschland)
 ## 工作經歷 Work Experience <img src="https://img.shields.io/badge/工作-Work-orange"/>
 - 2020-2021 武漢大學ISIP Lab的研究助理 （RA in Wuhan University, ISIP Lab）  
 - 2021 武漢大學的教學助理（很榮幸能夠和龔健雅院士一起合作）（TA in Wuhan University）
