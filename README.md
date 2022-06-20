@@ -1,8 +1,9 @@
 ## 張炅焱 來自 中華人民共和國 (Китай)<img src="https://cdn.emojidex.com/emoji/xhdpi/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97.png?1417130677"/>
+### Zhang, Jiongyan, FROM THE GREAT REPUBLIC 
 我很凶的，不要在我这里发癫。  
 I'm fierce, don't go epilepsy with me here.  
-Read my resume: <a href="RESEME_NEW.pdf"><img src="https://img.shields.io/badge/简历-Resume-yellowgreen"/></a>
-### Zhang, Jiongyan, FROM THE GREAT REPUBLIC  
+Read my resume: <a href="RESEME_NEW.pdf"><img src="https://img.shields.io/badge/简历-Resume-yellowgreen"/></a>  
+### Contact 
 📫 联系方式 How to reach me: hinczhang@whu.edu.cn  
 💬 咨询 Ask me about: 全栈 Fullstack, 计算机视觉 Computer Vision, 3D, 并行 parallelism  
 ## 教育背景 Education Background <img src="https://img.shields.io/badge/教育-Education-brightgreen"/>
