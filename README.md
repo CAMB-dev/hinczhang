@@ -2,8 +2,8 @@
 ### Zhang, Jiongyan, FROM THE GREAT REPUBLIC 
 我很凶的，不要在我这里发癫。  
 I'm fierce, don't go epilepsy with me here.  
-查看我的簡歷：<a href="簡歷-新.pdf"><img src="https://img.shields.io/badge/简历-CN-brightgreen"/></a>  
-Read my resume: <a href="RESEME_NEW.pdf"><img src="https://img.shields.io/badge/简历-EN-yellowgreen"/></a>  
+查看我的簡歷 (简体中文)：<a href="簡歷-新.pdf"><img src="https://img.shields.io/badge/简历-CN-brightgreen"/></a>  
+Read my resume (English): <a href="RESEME_NEW.pdf"><img src="https://img.shields.io/badge/简历-EN-yellowgreen"/></a>  
 ### Contact 
 📫 联系方式 How to reach me: hinczhang@whu.edu.cn  
 💬 咨询 Ask me about: 全栈 Fullstack, 计算机视觉 Computer Vision, 3D, 并行 parallelism  
