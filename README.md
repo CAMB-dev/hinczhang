@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ### Github統計信息 Statistical information
 ![張炅焱's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinczhang&show_icons=true&theme=vue)  
 ### Github代表作 Masterpieces
-<div style="height: 300px">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Machine-Learning-for-3D-Geometry&theme=vue)](https://github.com/hinczhang/Machine-Learning-for-3D-Geometry)</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Machine-Learning-for-3D-Geometry&theme=vue)](https://github.com/hinczhang/Machine-Learning-for-3D-Geometry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=3D-Scanning-and-Motion-Capture&theme=swift&layout=compact)](https://github.com/hinczhang/3D-Scanning-and-Motion-Capture)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=INF560&theme=buefy)](https://github.com/hinczhang/INF560)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=GeoRecorder)](https://github.com/hinczhang/GeoRecorder)  
