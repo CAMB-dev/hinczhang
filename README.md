@@ -1,7 +1,7 @@
 ## 張炅焱 來自 中華人民共和國 (Китай)<img src="https://cdn.emojidex.com/emoji/xhdpi/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97.png?1417130677"/>
 ### Zhang, Jiongyan, FROM THE GREAT REPUBLIC 
 我很凶的，不要在我这里发癫。  
-I'm fierce, don't go epilepsy with me here.  
+I'm fierce, don't go epilepsy with me here. 
 查看我的簡歷 (简体中文)：<a href="簡歷-新.pdf"><img src="https://img.shields.io/badge/简历-CN-brightgreen"/></a>  
 Read my resume (English): <a href="RESEME_NEW.pdf"><img src="https://img.shields.io/badge/简历-EN-yellowgreen"/></a>  
 ### Contact 
