@@ -3,6 +3,7 @@
 Remember to use `\noindent` before your section or subsection, if you found the space in the beginning of your paragraph, like:  
 - *I like it* (the format we prefer);
 - &ensp;*I like it*(with two space before the sentence, we do not prefer it).    
+
 If you want to change a line, use `\\` instead of just inputing `Enter` in your keyboard.  
 Some symbols like `&` or `%` should use `\&` and `\%`, as they present their special functions in Latex.  
 Use `\section{}` and `\subsection{}` and `\subsubsection{}` to make the title.  
