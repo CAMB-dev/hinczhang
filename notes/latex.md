@@ -14,15 +14,34 @@ Use:
 > \item b  
 > \item c  
 > \end{itemize}  
+
+
 To show the effect like:  
 > - a  
 > - b  
 > - c  
+
+
 And use:  
 > \begin{enumerate}  
 > \item a  
 > \item b  
 > \end{enumerate}  
+
+
 To show the effect like:  
 > 1. a  
 > 2. b  
+
+### Graph
+For graph inserted between lines, we can use:  
+> \begin{figure}[H]  
+> \centering  
+> \includegraphics[width=1\textwidth]{images/std.jpg}   
+> \caption{The standard deviation model. Please view the raw image in the Appendix section.}  
+> \end{figure}  
+
+You should revise `\includegraphics` for the image path in the latex system, and configure `width` to control its size. Also, you need to add captions by `\caption`.  
+
+For big graphs inserted to one full page, use this: 
+> \includeFullPageGraphics{images/std.jpg}  
