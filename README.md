@@ -62,7 +62,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Other    3 hrs 9 mins    ████████████████████░░░░░   79.85 %
+Python     45 mins         ███████████████████▒░░░░░   76.91 %
+Makefile   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+C++        6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+C          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
