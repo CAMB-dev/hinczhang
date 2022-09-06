@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     2 hrs 36 mins   ████████████████░░░░░░░░░   64.66 %
-C++        1 hr            ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-Other      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Python     5 hrs 5 mins    ███████████████████▓░░░░░   78.10 %
+C++        1 hr            ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Other      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
