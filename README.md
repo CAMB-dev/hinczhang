@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Other    13 hrs 53 mins  ██████████████████▒░░░░░░   72.77 %
+Other    16 hrs 11 mins  ███████████████████▓░░░░░   78.35 %
 ```
 
 <!--END_SECTION:waka-->
