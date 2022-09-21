@@ -13,7 +13,8 @@ Read my resume (English): <a href="RESEME_NEW.pdf"><img src="https://img.shields
 ## 工作經歷 Work Experience <img src="https://img.shields.io/badge/工作-Work-orange"/>
 - 2020-2021 武漢大學ISIP Lab的研究助理 （RA in Wuhan University, ISIP Lab）  
 - 2021 武漢大學的教學助理（很榮幸能夠和龔健雅院士一起合作）（TA in Wuhan University）
-- 2021 美國環境系統研究所公司北京研發中心，R&D（雖説刻意加上‘美國’很容易被説成是狗罕見，但的確是全名） （ESRI，R&D）
+- 2021 美國環境系統研究所公司北京研發中心，R&D（雖説刻意加上‘美國’很容易被説成是狗罕見，但的確是全名） （ESRI，R&D）  
+- 2022 通用自動化巡航 Cruise LLC.，主要是做雷達仿真和雷達工具鏈的GPU并行優化  (Cruise, Working Student)
 ## 技術棧 Technique Stack <img src="https://img.shields.io/badge/Techniques-v1.0.0-red"/>
 我常用的計算機語言 The Programming languages I usually use: <img src="https://img.shields.io/badge/Language-Javascript-green"/>
 <img src="https://img.shields.io/badge/Language-C++-green"/>
