@@ -63,7 +63,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin           49 mins         ███████████████▒░░░░░░░░░   61.93 %
+XML              27 mins         ████████▓░░░░░░░░░░░░░░░░   34.93 %
+Java             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Gradle           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
