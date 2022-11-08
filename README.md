@@ -1,4 +1,4 @@
-## 張炅焱 來自 中華人民共和國 (Китай)<img src="https://cdn.emojidex.com/emoji/xhdpi/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97.png?1417130677"/>
+## 張炅焱 來自 中華人民共和國 (Китай)
 ### Zhang, Jiongyan, FROM THE GREAT REPUBLIC 
 我很凶的，不要在我这里发癫。  
 I'm fierce, don't go epilepsy with me here.  
