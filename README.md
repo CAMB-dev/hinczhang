@@ -6,7 +6,7 @@ I'm fierce, don't go epilepsy with me here.
 Read my resume (English): <a href="RESEME_NEW.pdf"><img src="https://img.shields.io/badge/简历-EN-yellowgreen"/></a>  
 ### Contact 
 📫 联系方式 How to reach me: hinczhang@whu.edu.cn  
-💬 咨询 Ask me about: 全栈 Fullstack, 计算机视觉 Computer Vision, 3D, 并行 parallelism  
+💬 咨询 Ask me about: 全栈 Fullstack, 计算机视觉 Computer Vision, 3D, 并行 Parallel Computing  
 ## 教育背景 Education Background <img src="https://img.shields.io/badge/教育-Education-brightgreen"/>
 - 2017.09-2021.06 武漢大學（罕見大學）遙感信息工程學院地理信息工程方向 (Wuhan University, School of Remote Sensing Information and Eng., GIS track)  
 - 2021.10-Now 德國某一工程類大學 (Some technical university in Deutschland)  
