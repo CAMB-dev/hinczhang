@@ -64,12 +64,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             13 hrs 1 min    ██████████████▒░░░░░░░░░░   56.79 %
-XML              6 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.24 %
-Kotlin           3 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Groovy           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Gradle           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java             15 hrs 21 mins  █████████████████▒░░░░░░░   69.55 %
+XML              4 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+Kotlin           1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
