@@ -64,10 +64,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             15 hrs 21 mins  █████████████████▒░░░░░░░   69.55 %
-XML              4 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-Kotlin           1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Java             17 hrs 15 mins  ██████████████████░░░░░░░   71.69 %
+XML              6 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
+Kotlin           22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
