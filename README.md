@@ -64,11 +64,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java     10 hrs 28 mins  ████████████▓░░░░░░░░░░░░   51.26 %
-XML      6 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.04 %
-MATLAB   3 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java          8 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.62 %
+XML           5 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   29.66 %
+MATLAB        4 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
+Other         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
