@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java     24 mins         █████████████░░░░░░░░░░░░   52.17 %
-MATLAB   12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-XML      10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+Java     18 mins         ████████████░░░░░░░░░░░░░   47.47 %
+MATLAB   12 mins         ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+XML      8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
 ```
 
 <!--END_SECTION:waka-->
