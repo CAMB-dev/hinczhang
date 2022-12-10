@@ -64,7 +64,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java     25 mins         ██████████████████████▒░░   89.35 %
+Kotlin   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
 ```
 
 <!--END_SECTION:waka-->
