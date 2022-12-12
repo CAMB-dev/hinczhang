@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java     1 hr 5 mins     ███████████████████████░░   91.70 %
-Kotlin   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-XML      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Java     1 hr 41 mins    █████████████████░░░░░░░░   68.12 %
+XML      44 mins         ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+Kotlin   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
