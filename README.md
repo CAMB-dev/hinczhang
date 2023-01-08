@@ -64,7 +64,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-MATLAB   0 secs          █████████████████████████   100.00 %
+TypeScript   13 mins         ███████████████▒░░░░░░░░░   60.80 %
+SCSS         4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+Java         4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+MATLAB       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Kotlin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
