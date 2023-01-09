@@ -64,12 +64,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 mins         ███████████████▒░░░░░░░░░   60.80 %
-SCSS         4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-Java         4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-MATLAB       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Kotlin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Vue.js                     2 hrs 43 mins   █████████████▓░░░░░░░░░░░   55.18 %
+Other                      49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
 ```
 
 <!--END_SECTION:waka-->
