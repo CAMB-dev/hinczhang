@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### Github代表作 Masterpieces
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Machine-Learning-for-3D-Geometry&theme=vue)](https://github.com/hinczhang/Machine-Learning-for-3D-Geometry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=3D-Scanning-and-Motion-Capture&theme=swift&layout=compact)](https://github.com/hinczhang/3D-Scanning-and-Motion-Capture)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=INF560&theme=buefy)](https://github.com/hinczhang/INF560)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=INF560-ParallelAlgorithm&theme=buefy)](https://github.com/hinczhang/INF560-ParallelAlgorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=GeoRecorder)](https://github.com/hinczhang/GeoRecorder)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=Graduate-Thesis&theme=graywhite)](https://github.com/hinczhang/Graduate-Thesis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=ObjectRec&theme=swift)](https://github.com/hinczhang/ObjectRec)
