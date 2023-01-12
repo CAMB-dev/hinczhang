@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Github統計信息 Statistical information
-![張炅焱's GitHub stats]([https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=hinczhang&show_icons=true&theme=vue)  
+![張炅焱's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hinczhang&show_icons=true&theme=vue)  
 ### Github代表作 Masterpieces
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hinczhang&repo=Machine-Learning-for-3D-Geometry&theme=vue)](https://github.com/hinczhang/Machine-Learning-for-3D-Geometry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinczhang&repo=3D-Scanning-and-Motion-Capture&theme=swift&layout=compact)](https://github.com/hinczhang/3D-Scanning-and-Motion-Capture)  
