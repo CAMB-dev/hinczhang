@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python                     4 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   37.78 %
-Vue.js                     3 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.36 %
-Other                      1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Vue.js                     5 hrs 47 mins   ██████████▒░░░░░░░░░░░░░░   41.34 %
+Python                     4 hrs 51 mins   ████████▓░░░░░░░░░░░░░░░░   34.71 %
+Other                      1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 ```
 
 <!--END_SECTION:waka-->
